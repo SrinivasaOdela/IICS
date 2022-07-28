@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "gMH9pSPnUYfjxTejKc6voH",
+    "name" : "A004_ADMIN_Paddy_Vers",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
